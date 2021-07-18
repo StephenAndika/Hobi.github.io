@@ -1,0 +1,140 @@
+h1{
+	color: Yellow;
+	font-size: 50px;
+	font-family: Sans-serif;
+	
+	
+
+}
+#permulaan{
+	color: green;
+	font-size: 90px;
+	
+}
+#Perkenalan{
+	font-family: sans-serif;
+	Font-size: 40px;
+	color: White;
+}
+#awalan{
+	font-family: sans-serif;
+	font-size: 35px;
+	Color: green;
+}
+#pengenalan{
+	font-family: arial;
+	color: White;
+	font-size: 25px;
+	text-align: justify;
+	
+}
+#lomba{
+	font-family: sans-serif;
+	color: white;
+	font-size: 35px;
+	text-align: justify;
+}
+#judul{
+	font-family: sans-serif;
+	Font-size: 40px;
+	color: Blue;
+	
+}
+#awalan2{
+	font-size:35px;
+	color: Orange;
+	font-family: katakana-iroha; 
+	text-align:center;
+
+}
+#isi{
+	font-size:20px;
+	color: white;
+	text-align: justify;
+	
+}
+#website
+{
+	color: blue;
+	font-size: 90px;
+	font-family: Sans-serif;
+}
+
+#garis{
+	border-style: double;
+	color: grren;
+	padding: 30px;
+}
+	
+}
+
+form{
+	width:500;
+	margin:500;
+	
+}
+
+.search{
+	pading: 8px 15px;
+	bacground:rgba(50,80,20,30);
+	border:0 px solid #dbdbdb;
+}
+
+.button{
+	position:relative;
+	padding:6px 15px;
+	left:-8px;
+	border:2px blue
+	background-color:black;
+	color:green;
+}
+body{
+	background:repeat url(kimi.jpg);
+	background-color: white;
+	border: 30 px double green;	
+}
+
+*class{
+	heigt: 100;
+	background: blue;
+}
+{
+  background: #3498db;
+  font-family: sans-serif;
+}
+
+h2 {
+  color: #fff;
+}
+
+.login {
+  padding: 1em;
+  margin: 2em auto;
+  width: 17em;
+  background: #fff;
+  border-radius: 3px;
+}
+
+label {
+  font-size: 10pt;
+  color: #555;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  padding: 8px;
+  width: 95%;
+  background: #efefef;
+  border: 0;
+  font-size: 10pt;
+  margin: 6px 0px;
+}
+
+.tombol {
+  background: #3498db;
+  color: #fff;
+  border: 0;
+  padding: 5px 8px;
+}
+<p>* {</p><p>  box-sizing: border-box;</p><p>}</p><p> </p><p>#myInput {</p><p>  background-image: url('/css/searchicon.png');</p><p>  background-position: 10px 10px;</p><p>  background-repeat: no-repeat;</p><p>  width: 100%;</p><p>  font-size: 16px;</p><p>  padding: 12px 20px 12px 40px;</p><p>  border: 1px solid #ddd;</p><p>  margin-bottom: 12px;</p><p>}</p><p> </p><p>#myTable {</p><p>  border-collapse: collapse;</p><p>  width: 100%;</p><p>  border: 1px solid #ddd;</p><p>  font-size: 18px;</p><p>}</p><p> </p><p>#myTable th, #myTable td {</p><p>  text-align: left;</p><p>  padding: 12px;</p><p>}</p><p> </p><p>#myTable tr {</p><p>  border-bottom: 1px solid #ddd;</p><p>}</p><p> </p><p>#myTable tr.header, #myTable tr:hover {</p><p>  background-color: #f1f1f1;</p><p>}</p><span id="mce_marker" data-mce-type="bookmark" data-mce-fragment="1">​</span>
